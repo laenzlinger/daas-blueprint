@@ -1,0 +1,6 @@
+name: daas-blueprint
+title: Blueprint DaaS
+version: latest
+start_page: ROOT:main.adoc
+nav:
+- modules/ROOT/nav.adoc
